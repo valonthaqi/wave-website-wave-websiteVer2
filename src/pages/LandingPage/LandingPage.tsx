@@ -10,6 +10,7 @@ export const LandingPage = () => {
       <VideoBg></VideoBg>
       <Content>
         <Navigation />
+        
         <PageContainer>
           <SideBarContainer></SideBarContainer>
           <ContentContainer>
