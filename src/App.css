@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: Imported;
+    src: url(/src/fonts/BarlowCondensed-Regular.ttf);
+}
+
+#root{
+    font-family: Imported;
+}
